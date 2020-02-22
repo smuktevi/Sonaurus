@@ -1,2 +1,2 @@
 # Sonaurus
-Database Management Project
+Music Playlist management application with personalized user experience.
